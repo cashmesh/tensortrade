@@ -21,3 +21,6 @@ Pipfile
 
 # agent storage
 examples/agents
+
+.spyproject
+.spyproject/*
